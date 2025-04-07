@@ -1,2 +1,2 @@
 # 👾 sseyen
-Student at Czech Technical University and 42Prague<br>Learning C
+Student at:<br><t>Czech Technical University<br><t>42Prague<br>Learning C
