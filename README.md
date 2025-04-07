@@ -1,6 +1,6 @@
 # 👾 sseyen
 Student at:  
-‣ Czech Technical University  
+‣ Czech Technical University in Prague
 ‣ 42Prague  
 Learning C
 
