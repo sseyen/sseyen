@@ -17,4 +17,5 @@ I am a software engineering student based in **Prague**, focused on low-level pr
 - 🛠 Automating build processes with professional-grade **Makefiles**.
 
 ### 🌍 Connect with me
-[LinkedIn](https://www.linkedin.com/in/sseyen/) | [Email](mailto:alexandr.lisseyenko@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/sseyen/)
+* [Email](mailto:alexandr.lisseyenko@gmail.com)
