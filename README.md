@@ -18,9 +18,3 @@ I am a software engineering student based in **Prague**, focused on low-level pr
 
 ### 🌍 Connect with me
 [LinkedIn](https://www.linkedin.com/in/sseyen/) | [Email](mailto:alexandr.lisseyenko@gmail.com)
-
----
-
-### 📊 GitHub Stats
-![Alexandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical)
