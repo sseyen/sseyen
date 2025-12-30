@@ -22,8 +22,8 @@ A functional terminal from scratch. I implemented process lifecycle management (
 The Dining Philosophers problem. I utilized mutexes to prevent data races and architected a deadlock-free execution model.
 * `C`, `Pthreads`.
 
-**[So_long](https://github.com/sseyen/so_long) — 2D Game Logic** </br>
-A 2D game engine logic from the ground up. I focused on real-time event handling, map parsing, and sprite rendering.
+**[So_long](https://github.com/sseyen/so_long) — 2D Game** </br>
+A 2D game. I focused on real-time event handling, map parsing, and sprite rendering.
 * `C`, `MiniLibX`.
 
 ---
