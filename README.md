@@ -1,43 +1,32 @@
-# Alexandr Lisseyenko 👋
-
-I am a Software Engineer based in **Prague**, focused on backend architecture, system-level development, and automation.
-
-### 👤 About Me
-* **Background:** I combine deep academic informatics with intensive, project-based engineering drills.
-* **Focus:** I enjoy the challenge of manual memory management in C just as much as architecting scalable cloud services in Python.
-* **Mindset:** I advocate for clean code, automated workflows (Makefiles), and containerization (Docker).
-
-### 💻 What I Do
-* **Systems Programming:** Exploring Unix internals, process management, and multithreading.
-* **Backend Development:** Designing robust APIs and managing complex data flows.
-* **DevOps & Infrastructure:** Building consistent development environments and deployment pipelines.
-
----
+# Alexandr Lisseyenko
 
 ### 🛠 Tech Stack
-* **Languages:** `C/C++`, `Python`, `SQL`
-* **DevOps & Tools:** `Docker`, `Docker Compose`, `Makefile`, `Git`.
-* **Environment:** `Unix/Linux`, `Shell Scripting`.
+* **Languages:** </br>
+`C/C++`, `Python`, `SQL`
+* **DevOps & Tools:** </br>
+`Docker`, `Docker Compose`, `Makefile`, `Git`.
+* **Environment:** </br>
+`Unix/Linux`, `Shell Scripting`.
 
 ---
 
 ### 🚀 Key Projects
 
-**[VaultGo](https://github.com/sseyen/vaultgo) — Cloud Storage Application**
-* **Stack:** `Python`, `Django`, `PostgreSQL`, `Docker`, `JavaScript`, `HTML/CSS`.
-Architected a full-stack cloud platform for file management. I implemented secure user authentication, backend file-handling logic, and persistent storage.
+**[VaultGo](https://github.com/sseyen/vaultgo) — Cloud Storage Application** </br>
+A full-stack cloud platform for file management. I implemented secure user authentication, backend file-handling logic, and persistent storage.
+* `Python`, `Django`, `PostgreSQL`, `Docker`, `JavaScript`, `HTML/CSS`.
 
-**[Minishell](https://github.com/sseyen/minishell) — Unix Command-Line Interpreter**
-* **Stack:** `C`, `Unix System API`.
-Developed a functional terminal from scratch. I implemented process lifecycle management (`fork`/`execve`), pipes, redirections, and asynchronous signal handling.
+**[Minishell](https://github.com/sseyen/minishell) — Unix Command-Line Interpreter** </br>
+A functional terminal from scratch. I implemented process lifecycle management (`fork`/`execve`), pipes, redirections, and asynchronous signal handling.
+* `C`, `Unix System API`.
 
-**[Philosophers](https://github.com/sseyen/philosophers) — Concurrency & Multithreading**
-* **Stack:** `C`, `Pthreads`.
-Solved the Dining Philosophers problem to master thread synchronization. I utilized mutexes to prevent data races and architected a deadlock-free execution model.
+**[Philosophers](https://github.com/sseyen/philosophers) — Concurrency & Multithreading** </br>
+The Dining Philosophers problem. I utilized mutexes to prevent data races and architected a deadlock-free execution model.
+* `C`, `Pthreads`.
 
-**[So_long](https://github.com/sseyen/so_long) — 2D Game Logic**
-* **Stack:** `C`, `MiniLibX`.
-Built a 2D game engine logic from the ground up. I focused on real-time event handling, map parsing, and sprite rendering.
+**[So_long](https://github.com/sseyen/so_long) — 2D Game Logic** </br>
+A 2D game engine logic from the ground up. I focused on real-time event handling, map parsing, and sprite rendering.
+* `C`, `MiniLibX`.
 
 ---
 
