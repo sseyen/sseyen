@@ -5,8 +5,6 @@
 `C/C++`, `Python`, `SQL`
 * **DevOps & Tools:** </br>
 `Docker`, `Docker Compose`, `Makefile`, `Git`.
-* **Environment:** </br>
-`Unix/Linux`, `Shell Scripting`.
 
 ---
 
