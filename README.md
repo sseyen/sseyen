@@ -1,7 +1,6 @@
 # Alexandr Lisseyenko
 
 ### 🛠 Tech Stack
-* **Languages:** </br>
 `C/C++`, `Python`, `Docker`
 
 ---
