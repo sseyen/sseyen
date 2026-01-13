@@ -2,9 +2,7 @@
 
 ### 🛠 Tech Stack
 * **Languages:** </br>
-`C/C++`, `Python`, `SQL`
-* **DevOps & Tools:** </br>
-`Docker`, `Docker Compose`, `Makefile`, `Git`.
+`C/C++`, `Python`, `Docker`
 
 ---
 
