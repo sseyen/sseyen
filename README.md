@@ -6,7 +6,7 @@
 ---
 
 ### 📖 Overview
-Backend developer specializing in Python-based automation and data systems. Meanwhile, I also focus on low-level system programming and algorithmic challenges in C/C++, primarily through projects at *@42Prague*.
+Backend developer specializing in Python-based automation and data systems. I also focus on low-level system programming and algorithmic challenges in C/C++, primarily through projects at *@42Prague*.
 
 ---
 
