@@ -6,7 +6,7 @@
 ---
 
 ### 📖 Overview
-Backend developer focused on data extraction pipelines and system programming. I build scalable tools for proxy analysis and web scraping.
+Backend developer specializing in Python-based automation and data systems. Meanwhile, I also focus on low-level system programming and algorithmic challenges in C/C++, primarily through projects at *@42Prague*.
 
 ---
 
@@ -30,8 +30,8 @@ Backend developer focused on data extraction pipelines and system programming. I
 
 ### 🎓 Education
 
-* **Czech Technical University (CTU)** – Applied Informatics.
-* **42Prague** – Software Engineering (Core Curriculum).
+* **Czech Technical University (CTU)** – *Applied Informatics*.
+* **42Prague** – *Software Engineering (Core Curriculum)*.
 
 ---
 
