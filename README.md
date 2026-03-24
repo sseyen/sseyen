@@ -1,7 +1,7 @@
 # 🚀 Alexandr Lisseyenko
 **Software Engineer | Python | FastAPI**
 
-**Student | Applied Informatics *@CTU* | Core Curriculum *@42Prague***
+**Applied Informatics *@CTU* | Core Curriculum *@42Prague***
 
 ---
 
